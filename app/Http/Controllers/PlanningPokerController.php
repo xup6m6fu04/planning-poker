@@ -371,14 +371,6 @@ class PlanningPokerController extends Controller
     // 獲取預設人名列表
     private function getPredefinedNames()
     {
-        return [
-            'Eason',
-            'Ivory',
-            'Rita',
-            'Tony',
-            'Right',
-            'Irene',
-            'Emily'
-        ];
+        return [];
     }
 }
