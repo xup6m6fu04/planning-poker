@@ -40,7 +40,7 @@
           <!-- 開發資訊 -->
           <div>
             <h3 class="text-lg font-semibold text-white mb-4">開發資訊</h3>
-            <p class="text-gray-400 text-sm mb-2">開發者：Right</p>
+            <p class="text-gray-400 text-sm mb-2">開發者：Yu Lin Chou</p>
             <p class="text-gray-400 text-sm mb-2">版本：v1.0.0</p>
             <p class="text-gray-400 text-sm">主要技術：Laravel + Inertia.js + Vue.js</p>
           </div>
@@ -61,7 +61,7 @@
 
         <div class="mt-6 pt-6 border-t border-gray-700 text-center">
           <p class="text-gray-400 text-sm">
-            © 2025 Right Chou. All rights reserved.
+            © 2025 Yu Lin Chou. All rights reserved.
           </p>
         </div>
       </div>
